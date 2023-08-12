@@ -1,6 +1,6 @@
 # Guide
 
-> It's not official guide. It's just collection of hints and posiible solutions
+> It's not official guide. It's just collection of hints and possible solutions
 
 ## Copy project:
 
@@ -230,4 +230,7 @@ initializer:
 ```
 
 Create folder `did` inside `issuer-node`
+
+----
+Default port for issuer is: 3002, issuer user API: 3002. You can change this in: `api` and `api_ui` folder by editing `api.yaml` file.
 
